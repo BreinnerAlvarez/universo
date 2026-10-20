@@ -37,7 +37,7 @@ const NOTAS_FUGACES = [
 ];
 
 const CARTA = [
-  " Ey, llebamos mas de 5 años, no 5, en el 2026 nos mudamos solo, tu estabas intentando recuperarte de todo lo que habia pasado, nos mudamos solos y creo que esto nos ayudo en ese proceso para ti, hermoso vivir solos, amo esos momentos aveces me entristece que pienses que no quiero eso, eso es lo que mi corazon mas anhela, tener esa vida que ambos hemos soñado alguna vez, tu vivias todos estos precesos, luego las visitas 8 razon que te desanimo, y mi mama y vivir con ella 9, ya parece la canción cuenta regresiva jajajaj es lo que menos quuiero que se convierta esto, pero seguimos, mi madre se vino con nosotros y con ella muchas cosas, compramos la lavadora (Que hermoso momento) despues de tantos años, la lavadora, ahora no la puedo ni ver... empece a trabajar denuevo, oye y auqnue no lo creas, el aire acondicionado nos ayudo mucho¡ aca no teniamos y nos acurrucabamos menos, las facturas, la casa quiza ya te estabas apagando, yo trabajaba y me gustaba por que por mas que pasara mas tiempo fuera de casa sin ti sabia que en la noche podriamos dormir juntos y tranquilos sin preocupaciones de dinero y Con aire, lo señalo mucho por que no es un detalle menor jajajja te propuse matrimonio meditando mucho, hable con nuestros padres, ya habia hablado con mi abuela hace mucho y eso tambienn me animo y no queria esperar mas, ya queria formalizarlo y que tu tuvieras lo que te mereces aunque me falto un poco mas, ya me confie y descuide ciertas cosas y volvieron cosas de las 9 o diez cosas que te alejaban y nos mudamos nuevamente y la relación quiza pensabamos que estabamos tranquilos, el lugar es hermoso y nos gusto, solo que ya tu no aguantabas mas, recuerdo que hablamos antes que mi madre se viniera a vivir y esto podia pasar, quizas me equivoque pero hablamos y quedamos en que quiza unos 2 años mientras que yo pudiera pagarle un arriendo aparte y jesu me pudiera ayudar a mantenerla, eso era lo que tenia pensado , por que se y no pienso que seas mala persona por dejarme porque ni vivir solo, fue un motivo de peso para apagarte mucho maS... Ivy y te digo sinceramente que puedo entender lo que paso, esta situciaón, aun noo tengo suficientes recursos para estar contigo, realmente me parte el alma pero de verdad quiero estar ahi cuando loges tus cosas, tus metas, abrazarte y besarte, desde que nos dejamos no te habia dicho algo asi de profundo, pero es asi como lo veo, nesecito trabajar, no porque tu no puedas estar conmigo si no lo hago, sino porque realmente debo salir adelante, y demostrarme a mi mismo que puedo con esto, creeme que se que nesecitas un poco o mucho tiempo, y creeme que eso me cuesta, por que solo quiero abrazarte, besarte, amarte denuevo y demostrate que las personas si pueden cmabiar, si no cambiare de 1 dia para otro, pero si lo hare, mas temprano que tarde, se que me quieres olvidar, pero solo piensa por 1 segundo, cuando puedas volver no pienes en que ya estabamos comprometidos, no te preocupes por nada de eso, podemos salir poco a poco hasta que ya estes lista para ser mi novia nuevamente, tu estaras viviendo sola y yo aca hasta que no pueda independizarme contigo, y aun asi cuando ya pueda, si me empieza a ir bien, no es ncesario que vivamos juntos solos si no quieres aun, podemos seguir siendo novios y saliendo y viviendo esa etapa que quizas nos falto antes de meternos a vivir y luego nos podemos casar, mas adelante cuando ya estemos listos nuevamente, enserio esto llevaria tiempo, lo se pero yo creo que podriamos salir adelante, se que dije que respetaria tu espacio, ahora estoy violando eso y quizas esto te estremezca, quizas no he entendido que ya tu lo que sentias por mi murio para siempre, pero son mas de 5 años y solo soy un hombre intentando recuperar a la mujer de su vida, en tiktok aparecen tantas cosas, pero ey no significa que esas frases calcen con lo que estamos passando, aveces uno tambien se deja llevar por eso, no lo hagas, por favor se que quiza te estoy pidiendo mucho, y que quizas ahora no quieraserme, pero por favor regalalame una visita, vienes por tus cosas, no es necesario que te devuelvsa, se que no lo haras por que ya tomaste la decisión, pero permiteme mostrate el hombre que puedo llegar a ser  te prometo que no te decepcionara y se que esas 10 cosas que hemos passado pesan, eso es lo que no te deja, te agota, pero permitete no dejar todo de un tiron, no cambiara mucho, hablaremos solo que quizas nos sintamos mejor y asi nos podriamos apoyar un poco mas, asi sanas y yo reparo mi vida poco a poco este es breiner un hombre que esta despertando, aun no lo hace, ojo, pero el sabe que lo puede lograr. T E  A M O]"
+  " Ey, llebamos mas de 5 años, no 5, en el 2026 nos mudamos solo, tu estabas intentando recuperarte de todo lo que habia pasado, nos mudamos solos y creo que esto nos ayudo en ese proceso para ti, hermoso vivir solos, amo esos momentos aveces me entristece que pienses que no quiero eso, eso es lo que mi corazon mas anhela, tener esa vida que ambos hemos soñado alguna vez, tu vivias todos estos precesos, luego las visitas 8 razon que te desanimo, y mi mama y vivir con ella 9, ya parece la canción cuenta regresiva jajajaj es lo que menos quuiero que se convierta esto, pero seguimos, mi madre se vino con nosotros y con ella muchas cosas, compramos la lavadora (Que hermoso momento) despues de tantos años, la lavadora, ahora no la puedo ni ver... empece a trabajar denuevo, oye y auqnue no lo creas, el aire acondicionado nos ayudo mucho¡ aca no teniamos y nos acurrucabamos menos, las facturas, la casa quiza ya te estabas apagando, yo trabajaba y me gustaba por que por mas que pasara mas tiempo fuera de casa sin ti sabia que en la noche podriamos dormir juntos y tranquilos sin preocupaciones de dinero y Con aire, lo señalo mucho por que no es un detalle menor jajajja te propuse matrimonio meditando mucho, hable con nuestros padres, ya habia hablado con mi abuela hace mucho y eso tambienn me animo y no queria esperar mas, ya queria formalizarlo y que tu tuvieras lo que te mereces aunque me falto un poco mas, ya me confie y descuide ciertas cosas y volvieron cosas de las 9 o diez cosas que te alejaban y nos mudamos nuevamente y la relación quiza pensabamos que estabamos tranquilos, el lugar es hermoso y nos gusto, solo que ya tu no aguantabas mas, recuerdo que hablamos antes que mi madre se viniera a vivir y esto podia pasar, quizas me equivoke pero hablamos y quedamos en que quiza unos 2 años mientras que yo pudiera pagarle un arriendo aparte y jesu me pudiera ayudar a mantenerla, eso era lo que tenia pensado , por que se y no pienso que seas mala persona por dejarme porque ni vivir solo, fue un motivo de peso para apagarte mucho maS... Ivy y te digo sinceramente que puedo entender lo que paso, esta situciaón, aun noo tengo suficientes recursos para estar contigo, realmente me parte el alma pero de verdad quiero estar ahi cuando loges tus cosas, tus metas, abrazarte y besarte, desde que nos dejamos no te habia dicho algo asi de profundo, pero es asi como lo veo, nesecito trabajar, no porque tu no puedas estar conmigo si no lo hago, sino porque realmente debo salir adelante, y demostrarme a mi mismo que puedo con esto, creeme que se que nesecitas un poco o mucho tiempo, y creeme que eso me cuesta, por que solo quiero abrazarte, besarte, amarte denuevo y demostrate que las personas si pueden cmabiar, si no cambiare de 1 dia para otro, pero si lo hare, mas temprano que tarde, se que me quieres olvidar, pero solo piensa por 1 segundo, cuando puedas volver no pienes en que ya estabamos comprometidos, no te preocupes por nada de eso, podemos salir poco a poco hasta que ya estes lista para ser mi novia nuevamente, tu estaras viviendo sola y yo aca hasta que no pueda independizarme contigo, y aun asi cuando ya pueda, si me empieza a ir bien, no es ncesario que vivamos juntos solos si no quieres aun, podemos seguir siendo novios y saliendo y viviendo esa etapa que quizas nos falto antes de meternos a vivir y luego nos podemos casar, mas adelante cuando ya estemos listos nuevamente, enserio esto llevaria tiempo, lo se pero yo creo que podriamos salir adelante, se que dije que respetaria tu espacio, ahora estoy violando eso y quizas esto te estremezca, quizas no he entendido que ya tu lo que sentias por mi murio para siempre, pero son mas de 5 años y solo soy un hombre intentando recuperar a la mujer de su vida, en tiktok aparecen tantas cosas, pero ey no significa que esas frases calcen con lo que estamos passando, aveces uno tambien se deja llevar por eso, no lo hagas, por favor se que quiza te estoy pidiendo mucho, y que quizas ahora no quieraserme, pero por favor regalalame una visita, vienes por tus cosas, no es necesario que te devuelvsa, se que no lo haras por que ya tomaste la decisión, pero permiteme mostrate el hombre que puedo llegar a ser  te prometo que no te decepcionara y se que esas 10 cosas que hemos passado pesan, eso es lo que no te deja, te agota, pero permitete no dejar todo de un tiron, no cambiara mucho, hablaremos solo que quizas nos sintamos mejor y asi nos podriamos apoyar un poco mas, asi sanas y yo reparo mi vida poco a poco este es breiner un hombre que esta despertando, aun no lo hace, ojo, pero el sabe que lo puede lograr. T E  A M O]"
 ];
 
 /* =====================================================
@@ -74,24 +74,33 @@ addEventListener("resize", ajustar);
 ajustar();
 
 function lanzarFugaz() {
-  const x = w * (.4 + Math.random() * .6), y = Math.random() * h * .3;
-  // Velocidad reducida para que crucen suavemente
-  fugaces.push({ x, y, vx: -3.5 - Math.random() * 1.5, vy: 1.5 + Math.random() * 1, vida: 1 });
-  setTimeout(lanzarFugaz, 7000 + Math.random() * 7000);
+  if (typeof w === "undefined" || typeof h === "undefined" || !Array.isArray(fugaces)) return;
+  const x = w * (0.4 + Math.random() * 0.6);
+  const y = Math.random() * h * 0.3;
+  
+  fugaces.push({
+    x: x,
+    y: y,
+    vx: -3 - Math.random() * 1.5,
+    vy: 1.5 + Math.random() * 1,
+    vida: 1
+  });
+  
+  setTimeout(lanzarFugaz, 6000 + Math.random() * 6000);
 }
 
 function dibujar() {
   t += .016;
-  // Estrellas fugaces
-  ctx.shadowBlur = 0;
-  for (const f of fugaces) {
-    f.x += f.vx; f.y += f.vy; f.vida -= .0035; // Se desvanece más lento
-    const g = ctx.createLinearGradient(f.x, f.y, f.x - f.vx * 9, f.y - f.vy * 9);
-    g.addColorStop(0, `rgba(255,255,255,${f.vida})`); g.addColorStop(1, "rgba(255,255,255,0)");
-    ctx.strokeStyle = g; ctx.lineWidth = 2;
-    ctx.beginPath(); ctx.moveTo(f.x, f.y); ctx.lineTo(f.x - f.vx * 9, f.y - f.vy * 9); ctx.stroke();
+  ctx.clearRect(0, 0, w, h);
+
+  // Estrellas de fondo
+  for (const s of fondo) {
+    const alfa = s.a * (0.5 + 0.5 * Math.sin(t * s.v + s.f));
+    ctx.fillStyle = `rgba(255, 255, 255, ${alfa})`;
+    ctx.beginPath(); ctx.arc(s.x, s.y, s.r, 0, 6.28); ctx.fill();
   }
 
+  // Líneas
   ctx.lineWidth = 1.5; ctx.strokeStyle = "rgba(255,227,163,.9)";
   ctx.shadowColor = "#ffe3a3"; ctx.shadowBlur = 12;
   for (const e of ARISTAS) {
@@ -102,6 +111,7 @@ function dibujar() {
     ctx.lineTo(A.x + (B.x - A.x) * e.p, A.y + (B.y - A.y) * e.p); ctx.stroke();
   }
 
+  // Estrellas principales
   estrellas.forEach((s, i) => {
     const on = visitadas.has(i), pulso = 1 + .15 * Math.sin(t * 2 + i);
     const r = (on ? 9 : 7) * pulso;
@@ -113,15 +123,29 @@ function dibujar() {
     ctx.beginPath(); ctx.arc(s.x, s.y, r * 4, 0, 6.28); ctx.fill();
   });
 
+  // Estrellas fugaces
   ctx.shadowBlur = 0;
   for (const f of fugaces) {
-    f.x += f.vx; f.y += f.vy; f.vida -= .006;
-    const g = ctx.createLinearGradient(f.x, f.y, f.x - f.vx * 9, f.y - f.vy * 9);
-    g.addColorStop(0, `rgba(255,255,255,${f.vida})`); g.addColorStop(1, "rgba(255,255,255,0)");
-    ctx.strokeStyle = g; ctx.lineWidth = 2;
-    ctx.beginPath(); ctx.moveTo(f.x, f.y); ctx.lineTo(f.x - f.vx * 9, f.y - f.vy * 9); ctx.stroke();
+    f.x += f.vx; 
+    f.y += f.vy; 
+    f.vida -= .004;
+
+    const alfa = Math.max(0, f.vida);
+    if (alfa <= 0) continue;
+
+    const g = ctx.createLinearGradient(f.x, f.y, f.x - f.vx * 8, f.y - f.vy * 8);
+    g.addColorStop(0, `rgba(255, 255, 255, ${alfa})`);
+    g.addColorStop(1, "rgba(255, 255, 255, 0)");
+
+    ctx.strokeStyle = g; 
+    ctx.lineWidth = 2;
+    ctx.beginPath(); 
+    ctx.moveTo(f.x, f.y); 
+    ctx.lineTo(f.x - f.vx * 8, f.y - f.vy * 8); 
+    ctx.stroke();
   }
   fugaces = fugaces.filter(f => f.vida > 0);
+
   requestAnimationFrame(dibujar);
 }
 dibujar();
@@ -132,7 +156,7 @@ function mostrarPanel(titulo, texto, foto) {
   const img = $("panelFoto"); img.style.display = "none";
   if (foto) { img.onload = () => img.style.display = "block"; img.src = foto; }
   $("panel").classList.remove("oculto");
-  $("panel").scrollTop = 0; // Reinicia el scroll arriba al abrir
+  $("panel").scrollTop = 0;
 }
 $("cerrarPanel").onclick = () => $("panel").classList.add("oculto");
 
