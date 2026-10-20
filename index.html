@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Un universo para ti</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,500;1,300;1,500&family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Cielo estrellado -->
+  <canvas id="cielo"></canvas>
+
+  <!-- Pantalla de inicio -->
+  <section id="inicio">
+    <h1>Dije que merecías el cielo y las estrellas…<br>así que construí uno para ti</h1>
+    <button id="btnIniciar" class="btn">Explorar el universo</button>
+  </section>
+
+  <!-- Interfaz del universo -->
+  <div id="hud" class="oculto">
+    <p id="pista">Toca cada estrella <span id="contador">0 / 5</span></p>
+    <button id="btnFinal" class="btn oculto">Ver el mensaje final</button>
+  </div>
+
+  <!-- Panel flotante -->
+  <div id="panel" class="oculto" role="dialog">
+    <button class="cerrar" id="cerrarPanel" aria-label="Cerrar">×</button>
+    <img id="panelFoto" alt="">
+    <h2 id="panelTitulo"></h2>
+    <p id="panelTexto"></p>
+  </div>
+
+  <!-- Carta final -->
+  <div id="carta" class="oculto" role="dialog">
+    <div class="hoja">
+      <button class="cerrar" id="cerrarCarta" aria-label="Cerrar">×</button>
+      <div id="cartaTexto"></div>
+    </div>
+  </div>
+
+  <!-- Música -->
+  <audio id="musica" src="audio/until-i-found-you.mp3" loop preload="auto"></audio>
+  <button id="btnMusica" class="oculto" aria-label="Música">♪</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
