@@ -6,17 +6,17 @@ const RECUERDOS = [
   { 
     titulo: "Año 2021", 
     texto: "Mas alla del primer año, aqui se me viene a la mente toda nuestra historia antes de empezar a vivir juntos, eso que nos hizo enamorarnos jajaja, tu hermoso cuerpo que me traia loco jajaja pero siceramente mas alla de eso, recuerdas ahora queee heuler nos dijo que sentia ese amor inocente por la muchachita nueva, asi mismo te veia, tan linda, inteligente, responsable y fria, que bueno al principio quizas era lindo que fuiste fria, ya que estabas en una borbuja y menos mal que te descubri como un diamante en bruto que se pulio poco a poco y ahora brilla mas, pero aun debe pasar por un proceso para saber que quiere para su futuro, este año aprendi mucho compartiendo emprendimientos como por ejemplo el de los fritos que mi abuela nos ayudo... tambien con los mini perros calientes y bueno trabajando en aires acondicionado tambien, este año me marco profundamente, lo que claro empezo a dar señales eran los juegos, poco a poco iba prendiendose esa señal de alerta, y claro aqui tambien paso lo de tu mamá, que fue a la casa a molestar y me fui para cienaga y estuvimos casi como ahora, se que es diferente y asi fue este año. ]", 
-    foto: "img/año 1.webp" 
+    foto: "año 1.webp" 
   },
   { 
     titulo: "Año 2022", 
     texto: " el segundo año, vamos mejorando apesar de las cirscunstancias, se nos abrian las puertas poco a poco, empece a trabajar en irotama, tu te encargabas de la casa y viviamos donde mi abuela aun, saliamos de vez en cuando por ahi con lo que nos sobraba jajaja tomabamos micheladas, te enseñe la playa de cienaga y la plaza de cienaga, fue tan lindo, experimentando cosas nuevas, callando bocas y aunque muchos no querian que estuvieramos juntos, nosotros seguiamos, este año no jugue creo ya que trabajaba en irotama y creo que te daba mucha atención, aqui claro estabas enferma y yo iba a trabar y ya sabemos lo que paso... la verdad se que eso te marco pero seguiste y ya iban 2 alertas, como me duele reconocerlo, pero es la verdad, era muy inmaduro, apesar de que viviamos ese proceso juntos.  ]", 
-    foto: "img/año 2.webp" 
+    foto: "año 2.webp" 
   },
   { 
     titulo: "Año 2023", 
     texto: ": este año nos mudamos con mi papá a la casa de dos pisos, y creo que antes de eso se que te rebuscabas y trabajaste como 2 o 3 dias en el bets wetern, te sentias util pero apesar de todo sentias que me atrasabas, recuerdo que  aveces me lo decias, te sentias frustrada por no ser suficientes y aun te comparabas con otras personas, aunque siempre te decia todo lo que significabas para mi y todo lo que podrias lograr, te mostraba que eras suficiente para cualquiera, inluso si no era conmigo, aunque ahora entiendo que no estaba listo para pensar en una vida sin ti. ]", 
-    foto: "img/año 3.webp" 
+    foto: "año 3.webp" 
   },
   { 
     titulo: "Año 2024", 
